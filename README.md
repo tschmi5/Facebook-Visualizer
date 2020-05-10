@@ -9,13 +9,29 @@ Plotly & Jupyter
 # Current Graphs
 
 - Recording of your website activity when not on Facebook
+
+
+  ![Visited](images/visitedWebsites.png)
+
+
 - Time timeline in which they were recorded
 
+
+  ![Timeline](images/websiteTimeline.png)
+
+
 - Bar Graph of who you message and how much
-- Timeline of when you messaged people
+
+  ![Messages](images/messagesNoName.png)
+
+
+- Timeline of when you messaged people and message content
+
+  ![Timeline](images/messagesTimeline.png)
 
 - Bar Graph of Who's posts you react to
 
+  ![Reactions](images/reactions.png)
 # Setup
 Clone the Repo
 
