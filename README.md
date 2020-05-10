@@ -33,7 +33,12 @@ Plotly & Jupyter
 
   ![Reactions](images/reactions.png)
 # Setup
+
 Clone the Repo
+
+Download Your Facebook data and move it under the folder data/ 
+
+In the first cell of facebook.ipynb set the name of FACEBOOK_FOLDER to the name of your facebook folder. You don't need to set the path, just the name of the folder.
 
 In the Repo create a virtual enviroment and activate it
 
