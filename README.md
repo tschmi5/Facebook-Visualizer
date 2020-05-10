@@ -57,6 +57,7 @@ Run the Project with
 jupyter notebook
 ```
 
+Finally click 'cells' and 'run all'
 
 MIT License
 
