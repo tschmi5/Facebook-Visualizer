@@ -36,3 +36,7 @@ Run the Project with
 jupyter notebook
 ```
 
+
+MIT License
+
+Copyright (c) 2020 Tyler Schmitz
